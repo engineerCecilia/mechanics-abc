@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+*.egg-info/
+dist/
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 环境变量文件（包含敏感信息）
+.env
+
+# MkDocs 生成的文件
+site/
+docs/
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+
+# 文档（可选，根据需要保留）
+# *.md
+# *.txt
